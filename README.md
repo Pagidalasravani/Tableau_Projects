@@ -1,2 +1,2 @@
 # Tableau_Projects
-This repo contains the different Dashboards and Visualizations created in Tableau Desktop
+Welcome to my Tableau Projects Repository! 🚀 This repository showcases end-to-end data visualization projects, covering data preparation, dashboard design, and insights generation.
